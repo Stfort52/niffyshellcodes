@@ -1,0 +1,6 @@
+.gdb_history
+peda*
+.vscode
+*.o
+*.out
+strace*
